@@ -3,13 +3,13 @@
 
 .container {
     font-family: Roboto;
-    Background-color: LightGrey;
-    Background-size:cover;
-    Border-radius: 25px;
+    background-color: LightGrey;
+    background-size:cover;
+    border-radius: 25px;
 }
 
 #petImg {
-    background-size: cover;
+    
     height: 80vh;
     width: 80vw;
 }
